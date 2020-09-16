@@ -97,7 +97,7 @@ test('1023 = MXXIII', () => {
 });
 
 test('2014 = MMXIV', () => {
-  expect(convertToRoman(1023)).toBe('MMXIV');
+  expect(convertToRoman(2014)).toBe('MMXIV');
 });
 
 test('3999 = MMMCMXCIX', () => {
