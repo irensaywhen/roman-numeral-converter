@@ -1,0 +1,22 @@
+{
+  "name": "roman-numeral-converter",
+  "version": "1.0.0",
+  "description": "The second project of the fcc JavaScript set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irensaywhen/roman-numeral-converter.git"
+  },
+  "author": "Irina Gataullina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irensaywhen/roman-numeral-converter/issues"
+  },
+  "homepage": "https://github.com/irensaywhen/roman-numeral-converter#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
